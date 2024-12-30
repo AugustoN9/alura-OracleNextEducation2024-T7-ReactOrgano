@@ -1,6 +1,7 @@
 {
   "name": "organo",
   "version": "0.1.0",
+  "homepage": "alura-OracleNextEducation2024-T7-ReactOrgano",
   "private": true,
   "dependencies": {
     "cra-template": "1.2.0",
